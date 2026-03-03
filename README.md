@@ -7,6 +7,8 @@ Solución integral y multiplataforma para la gestión y visualización de banner
 
 Android
 
+https://github.com/user-attachments/assets/008aa597-4a48-4855-85ad-05d93ceda09a
+
 
 <img width="430" height="985" alt="image" src="https://github.com/user-attachments/assets/e1520b1f-f4ab-4bb3-846a-7a33e44f91cb" />
 <img width="429" height="956" alt="image" src="https://github.com/user-attachments/assets/75687238-1f76-4f82-b837-8456caf56d2d" />
@@ -104,4 +106,5 @@ El SDK espera un JSON con la siguiente estructura para los banners:
 
 
 Desarrollado con ❤️ por el equipo de **Think Up by Domus Global**.
+
 
